@@ -197,12 +197,12 @@
     {
       "id": 195648533,
       "doc_id": "bn8cm8p3ixt7381i",
-      "updated": 1755263697000,
+      "updated": 1755264217000,
       "properties": {
         "title": "分布式系统复习",
         "urlname": "bn8cm8p3ixt7381i",
         "date": "2024-11-22 21:30:50",
-        "updated": "2025-08-15 21:14:57",
+        "updated": "2025-08-15 21:23:37",
         "cover": "https://cdn.nlark.com/yuque/0/2024/png/34548170/1732282301451-68b88d03-3fc8-479b-a25b-ac07a3f6b931.png",
         "description": "大题：chord哈希算法，让你填写查询过程 (5分)Chord原理、Hash表分布规则、基于Finger Table的路由技术Hash表分布规则：Hash节点IP地址－&gt;m位节点ID(表示为NID)Hash内容关键字－&gt;m位K(表示为KID)节点按ID从小到大顺序排列在一个逻辑环上..."
       },

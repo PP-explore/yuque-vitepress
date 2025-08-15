@@ -5,14 +5,14 @@ import { YuQueSVG } from "../../utils/assists";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: "zh-CN",
-  title: "Yuque-VitePress",
+  title: "PP屁屁",
   description: "语雀 + Elog + VitePress + GitHub Actions + Vercel 文档站点解决方案",
   lastUpdated: true,
   cleanUrls: true,
   ignoreDeadLinks: true,
   head: [
     [
-      'link', { rel: 'icon', href: '/favicon.ico' }
+      'link', { rel: 'icon', href: 'favicon.ico' }
     ]
   ],
   themeConfig: {
@@ -22,8 +22,8 @@ export default defineConfig({
     outline: [2,6],
     nav: [
       { text: '首页', link: '/' },
-      { text: '配置文档', link: '/docs/入门指引/快速开始', activeMatch: '/docs/' },
-      // { text: '短路由模式', link: '/docs-shorturl/ssuhngw0yb3dgkkg', activeMatch: '/docs-shorturl/' }
+      { text: '配置文档', link: '/docs/Java', activeMatch: '/docs/Java' },
+      { text: '短路由模式', link: '/docs-shorturl/ssuhngw0yb3dgkkg', activeMatch: '/docs-shorturl/' }
     ],
     sidebar: {
       "/docs/": await genYuqueSideBar('/docs'),

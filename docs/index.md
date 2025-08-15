@@ -3,19 +3,19 @@
 layout: home
 
 hero:
-  name: "Yuque-VitePress"
-  text: "文档站点解决方案"
+  name: "PP屁屁"
+  text: "个人博客"
   tagline: 语雀 + Elog + VitePress + GitHub Actions + Vercel 持续集成
   actions:
     - theme: brand
-      text: 快速开始
-      link: /docs/入门指引/快速开始
+      text: Java
+      link: /docs/Java
     - theme: brand
-      text: 短路由示例
+      text: 日常随笔
       link: /docs-shorturl/ssuhngw0yb3dgkkg
     - theme: alt
       text: GitHub
-      link: https://github.com/elog-x/yuque-vitepress
+      link: https://github.com/PP-explore
 
 features:
   - icon: 📝
